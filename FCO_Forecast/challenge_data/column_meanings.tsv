@@ -1,0 +1,8 @@
+Headers 	Definitions
+Generic Group	Data belonging to Sandesh Brand or Market
+Generic Brand	Brand related
+Generic Product Category	Market or Broadband related
+Generic Product	Each brand can have multiple products (Rabbit, Cheetah…) 
+Variable Group	This helps you to understand to which group belong each generic variable, for instance the variable group Marketing spend includes variables, such as TV or Brand.
+Generic Variable	All variables available primary or forecasted variables
+Generic LookupKey	Unique key or primary key
